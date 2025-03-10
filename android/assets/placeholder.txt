@@ -1,0 +1,6 @@
+Ce dossier doit contenir les éléments suivants :
+
+- fonts/cyber.ttf : Police d'écriture cyberpunk
+- sounds/ : Fichiers audio (jump.wav, die.wav, score.wav, cyberpunk_loop.mp3)
+- textures/ : Images du jeu (player.png, obstacle.png, background.png)
+- textures/ui/ : Images de l'interface (play_button.png, game_over.png)
